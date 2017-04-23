@@ -8,7 +8,7 @@
 Jekyll theme based on [New Age bootstrap theme ](https://startbootstrap.com/template-overviews/new-age/)
 
 # Demo
-View this jekyll theme in action [here](https://jekynewage.github.io/)
+View this jekyll theme in action [here](https://jimhug.github.io/jekynewage)
 
 ## Built by
 [Antonio Trento](https://it.linkedin.com/in/antoniotrento)
